@@ -1,0 +1,38 @@
+body {
+  background-image: url("images/dark-green-wall.jpg");
+  background-size: cover;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+h1 {
+  color: goldenrod;
+  text-align: center;
+  font-size: 2.8rem;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  font-weight: bold;
+  width: 140px;
+  background-color: #daa520;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+button:hover {
+  color: #02a44b;
+  background-color: #c4951e;
+}
